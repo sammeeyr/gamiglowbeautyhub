@@ -1,0 +1,6 @@
+{
+  "name": "GAMI GLOW Beauty Hub",
+  "description": "Official luxury booking & storefront for GAMI GLOW Beauty Hub in Abuja. Studio makeup, bridal makeovers, soft/full glam, and home services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
